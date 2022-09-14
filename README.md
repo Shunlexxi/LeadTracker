@@ -1,4 +1,4 @@
-# LeadTracker
-This is a demo project.
+# LeadTracker Chrome Extension
+
 ---
-Courtesy: Per
+Courtesy: Per Harald Borgen
